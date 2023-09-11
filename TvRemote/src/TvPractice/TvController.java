@@ -22,7 +22,7 @@ public class TvController {
 			System.out.println("-----------------------------------------------------");
 			System.out.println("Tv2 channel is set to: " + tv2.channel + " and the volume is set to: " + tv2.volume);
 			
-			 
+			
 			
 			
 
