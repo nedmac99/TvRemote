@@ -25,7 +25,7 @@ public class TV {
 
 	public void setVolume(int newVolume) {
 
-		if (isOn && newVolume >= 1 && newVolume <= 7)
+		if (isOn && newVolume >= 0 && newVolume <= 7)
 			volume = newVolume;
 	}
 
